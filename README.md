@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=IMRAN%20AL%20FARABI&fontSize=55&animation=twinkling&fontColor=00f5ff&fontAlignY=38&desc=Frontend%20Architect%20%7C%20React%20Specialist%20%7C%20Student%20Instructor&descAlignY=60&descSize=16&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=IMRAN%20AL%20FARABI&fontSize=55&animation=twinkling&fontColor=00f5ff&fontAlignY=38&desc=Frontend%20Architect%20%7C%20React%20Specialist%20%7C%20Next.js%20Explorer&descAlignY=60&descSize=16&descColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=%E2%9A%A1+Frontend+Architect+%7C+Crafting+Digital+Worlds;%F0%9F%9A%80+React+%26+Next.js+15+Specialist;%F0%9F%8E%93+Student+Instructor+%7C+6+Active+Batches;%F0%9F%8C%90+Building+the+Future+with+Clean+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=%E2%9A%A1+Frontend+Architect+%7C+Crafting+Digital+Worlds;%F0%9F%9A%80+React+%26+Next.js+15+Specialist;%F0%9F%8C%90+Building+the+Future+with+Clean+Code;%F0%9F%A7%A0+Deep+Diving+into+Auth+%26+Server-Side+Logic" />
 </p>
 
 <div align="center">
@@ -26,7 +26,7 @@
 
 ```typescript
 const ImranAlFarabi = {
-  role      : ["Frontend Architect",],
+  role      : ["Frontend Architect", "React Specialist"],
   location  : "Bangladesh 🇧🇩",
   focus     : "Next.js 15 + Advanced React",
   mission   : "Clean Code. Scalable Design.",
@@ -34,7 +34,6 @@ const ImranAlFarabi = {
   currentlyBuilding : "🖼️ Tiles Gallery",
   stack             : ["MongoDB", "BetterAuth", "Next.js 15"],
 
-  teaching  : "Managing 6 Instructional Batches 🎓",
   learning  : ["Auth Systems", "Server-Side Logic", "SSR/ISR"],
 
   contact   : "imranalfarabidevworks@gmail.com",
@@ -63,19 +62,15 @@ const ImranAlFarabi = {
 
 <table align="center" border="0">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/BUILDING-Tiles%20Gallery-00f5ff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117"/>
 <br/><sub>Fullstack with MongoDB & BetterAuth</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/MASTERING-Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=00f5ff&labelColor=0d1117"/>
 <br/><sub>Advanced React Ecosystem</sub>
 </td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/TEACHING-6%20Batches-purple?style=for-the-badge&logo=academia&logoColor=white&labelColor=0d1117"/>
-<br/><sub></sub>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
 <img src="https://img.shields.io/badge/STUDYING-Auth%20%26%20SSR-ff4500?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0d1117"/>
 <br/><sub>Server-Side Deep Dive</sub>
 </td>
