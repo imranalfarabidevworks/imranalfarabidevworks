@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=IMRAN%20AL%20FARABI&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=62&descSize=18&descColor=d6d6d6&animation=fadeIn" width="100%"/>
 
-<h2 align="center">Namaste 🙏 I'm Imran Al Farabi</h2>
+<h2 align="center">Hi I'm Imran Al Farabi</h2>
 
 <p align="center">
 🌟 I'm a Full-Stack Developer from Dhaka, Bangladesh, specializing in the <b>MERN Stack</b> and <b>Next.js</b>. I've completed 800+ hours of hands-on training and built 12+ real-world projects — from e-commerce platforms to AI-powered systems. I'm currently architecting <b>LaunchForge AI</b>, a multi-module SaaS platform, and I'm always exploring ways to write cleaner, more scalable code.
