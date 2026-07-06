@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=IMRAN%20AL%20FARABI&fontSize=55&animation=twinkling&fontColor=00f5ff&fontAlignY=38&desc=Frontend%20Architect%20%7C%20React%20Specialist%20%7C%20Next.js%20Explorer&descAlignY=60&descSize=16&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=IMRAN%20AL%20FARABI&fontSize=55&animation=twinkling&fontColor=00f5ff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Specialist%20%7C%20Next.js%20Architect&descAlignY=60&descSize=16&descColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=%E2%9A%A1+Frontend+Architect+%7C+Crafting+Digital+Worlds;%F0%9F%9A%80+React+%26+Next.js+15+Specialist;%F0%9F%8C%90+Building+the+Future+with+Clean+Code;%F0%9F%A7%A0+Deep+Diving+into+Auth+%26+Server-Side+Logic" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=%E2%9A%A1+Full+Stack+Developer+%7C+Crafting+Digital+Worlds;%F0%9F%9A%80+MERN+%26+Next.js+15+Specialist;%F0%9F%8C%90+Building+the+Future+with+Clean+Code;%F0%9F%A7%A0+Deep+Diving+into+Auth+%26+Server-Side+Logic" />
 </p>
 
 <div align="center">
@@ -26,15 +26,15 @@
 
 ```typescript
 const ImranAlFarabi = {
-  role      : ["Frontend Architect", "React Specialist"],
+  role      : ["Full Stack Developer", "MERN Specialist"],
   location  : "Bangladesh 🇧🇩",
-  focus     : "Next.js 15 + Advanced React",
-  mission   : "Clean Code. Scalable Design.",
+  focus     : "Next.js 15 + Node.js + Express",
+  mission   : "Clean Code. Scalable Systems.",
 
-  currentlyBuilding : "🖼️ Tiles Gallery",
-  stack             : ["MongoDB", "BetterAuth", "Next.js 15"],
+  currentlyBuilding : "🚀 LaunchForge AI — Multi-module SaaS Platform",
+  stack             : ["MongoDB", "PostgreSQL", "Express.js", "BetterAuth"],
 
-  learning  : ["Auth Systems", "Server-Side Logic", "SSR/ISR"],
+  learning  : ["Supabase", "System Design", "SSR/ISR at Scale"],
 
   contact   : "imranalfarabidevworks@gmail.com",
   motto     : "Consistent Learning > Sporadic Genius 🧠",
@@ -63,16 +63,16 @@ const ImranAlFarabi = {
 <table align="center" border="0">
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/BUILDING-Tiles%20Gallery-00f5ff?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0d1117"/>
-<br/><sub>Fullstack with MongoDB & BetterAuth</sub>
+<img src="https://img.shields.io/badge/BUILDING-LaunchForge%20AI-00f5ff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117"/>
+<br/><sub>Full-scale SaaS with Next.js & MongoDB</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/MASTERING-Next.js%2015-000000?style=for-the-badge&logo=nextdotjs&logoColor=00f5ff&labelColor=0d1117"/>
-<br/><sub>Advanced React Ecosystem</sub>
+<img src="https://img.shields.io/badge/MASTERING-Node.js%20%26%20Express-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d1117"/>
+<br/><sub>Backend & API Architecture</sub>
 </td>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/STUDYING-Auth%20%26%20SSR-ff4500?style=for-the-badge&logo=auth0&logoColor=white&labelColor=0d1117"/>
-<br/><sub>Server-Side Deep Dive</sub>
+<img src="https://img.shields.io/badge/EXPLORING-Supabase%20%26%20SQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=0d1117"/>
+<br/><sub>Relational DB & BaaS</sub>
 </td>
 </tr>
 </table>
@@ -87,7 +87,10 @@ const ImranAlFarabi = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark&perline=6" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,tailwind,vite,git,github,figma&theme=dark&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase&theme=dark&perline=6" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tailwind,vite,git,github,figma,vercel&theme=dark&perline=6" />
 </p>
 
 <br/>
@@ -98,7 +101,12 @@ const ImranAlFarabi = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <br/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/BetterAuth-FF4500?style=for-the-badge&logo=auth0&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/DaisyUI-5835EE?style=for-the-badge&logo=daisyui&logoColor=white" />
