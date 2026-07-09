@@ -5,7 +5,95 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;Next.js+Enthusiast+%F0%9F%9A%80;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?# Hi 👋 I'm Imran Al Farabi
+
+```{=html}
+<p align="center">
+```
+`<img src="YOUR_BANNER_IMAGE_URL" width="100%" alt="Banner"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<h3 align="center">
+```
+💻 Full Stack Developer \| MERN Stack Developer \| Next.js Enthusiast
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+Building modern, scalable and user-focused web applications.
+```{=html}
+</p>
+```
+## 🚀 About Me
+
+-   🌱 Learning **Advanced Next.js**, **Better Auth**, **System Design**
+-   💼 Passionate about building full-stack applications
+-   🎯 Clean code, performance and great UI/UX
+-   📍 Bangladesh
+
+## 🛠 Tech Stack
+
+### Frontend
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
+
+### Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,firebase)
+
+### Database
+
+![DB](https://skillicons.dev/icons?i=mongodb,mysql)
+
+### Tools
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel)
+
+## 🌐 Connect
+
+-   📧 imranalfarabidevworks@gmail.com
+-   💼 https://www.linkedin.com/in/imran-al-farabi-6868f
+-   🌍 https://alfarabi-portfolio-vert-phi.vercel.app/
+-   🐙 https://github.com/imranalfarabidevworks
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=tokyonight)
+
+![Top
+Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranalfarabidevworks&layout=compact&theme=tokyonight)
+
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=imranalfarabidevworks&theme=tokyo-night)
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=imranalfarabidevworks&theme=tokyonight&no-frame=true&margin-w=10)
+
+## 🚀 Featured Projects
+
+-   Portfolio Website
+-   Tourism Website
+-   E-commerce Platform
+
+## 🎯 Goals
+
+-   Master Next.js
+-   Learn Docker & Kubernetes
+-   Build SaaS products
+-   Contribute to Open Source
+
+------------------------------------------------------------------------
+
+⭐ Thanks for visiting my profile!
+font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;Next.js+Enthusiast+%F0%9F%9A%80;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
