@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=Imran%20Al%20Farabi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://i.ibb.co.com/7N0LssTZ/Chat-GPT-Image-Jul-9-2026-02-06-35-PM.png" width="100%"/>
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -98,8 +98,6 @@ passion: "Building modern, scalable & user-focused web applications 🚀"
 
 <img src="https://raw.githubusercontent.com/imranalfarabidevworks/imranalfarabidevworks/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the GitHub Action to auto-generate this snake.</sub>
-
 </div>
 
 <br/>
@@ -109,10 +107,6 @@ passion: "Building modern, scalable & user-focused web applications 🚀"
 <div align="center">
 
 <!--START_SECTION:waka-->
-```text
-Add your WakaTime badge below by connecting https://wakatime.com/ 
-and using README-stats sync, e.g:
-```
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranalfarabidevworks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&layout=compact"/>
 <!--END_SECTION:waka-->
 
@@ -124,7 +118,7 @@ and using README-stats sync, e.g:
 
 <div align="center">
 
-<img src="https://picsum.photos/600/400" alt="Random Fake Pic" />
+<img src="https://github-profile-trophy.vercel.app/?username=imranalfarabidevworks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
 
 </div>
 
@@ -135,17 +129,17 @@ and using README-stats sync, e.g:
 <div align="center">
 
 <a href="https://github.com/imranalfarabidevworks/doctor-app-client">
-<img src="https://i.ibb.co.com/TMCrvGK4/image.png"/>
+<img src="https://i.ibb.co.com/TMCrvGK4/image.png" width="400"/>
 </a>
 <a href="https://github.com/imranalfarabidevworks/Fresh-Mart">
-<img src="https://i.ibb.co.com/r2jCXj9Q/Gemini-Generated-Image-aucuscaucuscaucu.png"/>
+<img src="https://i.ibb.co.com/r2jCXj9Q/Gemini-Generated-Image-aucuscaucuscaucu.png" width="400"/>
 </a>
 <br/>
 <a href="https://github.com/imranalfarabidevworks/MediScript">
-<img src="https://ibb.co.com/Kc91bdZz"/>
+<img src="https://i.ibb.co.com/gbDnmN1F/Chat-GPT-Image-Jun-29-2026-11-00-14-PM.png" width="400"/>
 </a>
 <a href="https://github.com/imranalfarabidevworks/Ai-Prompt-server">
-<img src="https://ibb.co.com/b51PzVn9"/>
+<img src="https://i.ibb.co.com/CKBzhyFG/Chat-GPT-Image-Jun-29-2026-10-53-10-PM.png" width="400"/>
 </a>
 
 </div>
