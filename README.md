@@ -134,26 +134,28 @@ and using README-stats sync, e.g:
 
 <div align="center">
 
-<a href="https://alfarabi-portfolio-vert-phi.vercel.app/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<a href="https://github.com/imranalfarabidevworks/doctor-app-client">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=doctor-app-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
 </a>
-<a href="https://github.com/imranalfarabidevworks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=tourism-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<a href="https://github.com/imranalfarabidevworks/Fresh-Mart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=Fresh-Mart&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
 </a>
 <br/>
-<a href="https://github.com/imranalfarabidevworks">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<a href="https://github.com/imranalfarabidevworks/MediScript">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=MediScript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+</a>
+<a href="https://github.com/imranalfarabidevworks/Ai-Prompt-server">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=Ai-Prompt-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
 </a>
 
 </div>
 
-> 💡 **Note:** Update the `repo=` values above with your exact repository names so the pinned cards render correctly.
-
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🌐 **Portfolio Website** | Personal portfolio showcasing my work & skills | Next.js, Tailwind CSS |
-| ✈️ **Tourism Website** | Full-stack travel & tourism booking platform | MERN Stack |
-| 🛒 **E-commerce Platform** | Scalable online store with cart & payments | MERN, Next.js |
+| 🩺 **Doctor App Client** | Doctor appointment / healthcare client app | JavaScript |
+| 🛒 **Fresh Mart** | E-commerce style grocery platform | TypeScript |
+| 💊 **MediScript** | Medical prescription management app | TypeScript |
+| 🤖 **AI Prompt Server** | Backend server for AI prompt handling | JavaScript |
 
 <br/>
 
