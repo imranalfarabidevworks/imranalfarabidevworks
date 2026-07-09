@@ -107,7 +107,7 @@ passion: "Building modern, scalable & user-focused web applications 🚀"
 <div align="center">
 
 <!--START_SECTION:waka-->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranalfarabidevworks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&layout=compact"/>
+<img src="https://i.ibb.co.com/9HJQFcVy/image.png"/>
 <!--END_SECTION:waka-->
 
 </div>
@@ -118,7 +118,7 @@ passion: "Building modern, scalable & user-focused web applications 🚀"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imranalfarabidevworks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+<img src="https://i.ibb.co.com/bRCXBzdR/image.png"/>
 
 </div>
 
