@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;Next.js+Enthusiast+%F0%9F%9A%80;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;+%F0%9F%9A%80;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -124,7 +124,7 @@ and using README-stats sync, e.g:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=imranalfarabidevworks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+<img src="https://picsum.photos/600/400" alt="Random Fake Pic" />
 
 </div>
 
@@ -135,17 +135,17 @@ and using README-stats sync, e.g:
 <div align="center">
 
 <a href="https://github.com/imranalfarabidevworks/doctor-app-client">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=doctor-app-client&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<img src="https://i.ibb.co.com/TMCrvGK4/image.png"/>
 </a>
 <a href="https://github.com/imranalfarabidevworks/Fresh-Mart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=Fresh-Mart&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<img src="https://i.ibb.co.com/r2jCXj9Q/Gemini-Generated-Image-aucuscaucuscaucu.png"/>
 </a>
 <br/>
 <a href="https://github.com/imranalfarabidevworks/MediScript">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=MediScript&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<img src="https://ibb.co.com/Kc91bdZz"/>
 </a>
 <a href="https://github.com/imranalfarabidevworks/Ai-Prompt-server">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=Ai-Prompt-server&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+<img src="https://ibb.co.com/b51PzVn9"/>
 </a>
 
 </div>
