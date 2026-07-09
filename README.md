@@ -1,152 +1,216 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=IMRAN%20AL%20FARABI&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=62&descSize=18&descColor=d6d6d6&animation=fadeIn" width="100%"/>
+<div align="center">
 
-<h2 align="center">Hi I'm Imran Al Farabi</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=Imran%20Al%20Farabi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Next.js&descAlignY=55&descSize=20" width="100%"/>
 
-<p align="center">
-🌟 I'm a Full-Stack Developer from Dhaka, Bangladesh, specializing in the <b>MERN Stack</b> and <b>Next.js</b>. I've completed 800+ hours of hands-on training and built 12+ real-world projects — from e-commerce platforms to AI-powered systems. I'm currently architecting <b>LaunchForge AI</b>, a multi-module SaaS platform, and I'm always exploring ways to write cleaner, more scalable code.
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imranalfarabidevworks&label=PROFILE+VIEWS&color=2c5364&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/imranalfarabidevworks?label=STARS&style=for-the-badge&color=203a43" />
-  <img src="https://img.shields.io/github/followers/imranalfarabidevworks?label=FOLLOWERS&style=for-the-badge&color=0f2027" />
-</p>
-
----
-
-## 📌 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 💻 I'm currently working on and developing **full-stack SaaS applications**
-- 🚀 Building **LaunchForge AI** — website builder, CMS, e-commerce, CRM & marketing, all in one platform
-- ⚙️ Experience with **MERN Stack**, **Next.js 15**, and **Better Auth** for secure authentication
-- 🧠 Skills I've acquired: **React, Node.js, Express, MongoDB, TypeScript, Tailwind CSS**
-- ⚡ Interest in **AI-integrated apps**, **e-commerce systems**, and **scalable backend architecture**
-- 🎯 I only like perfection.
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="300"/>
-
-</td>
-</tr>
-</table>
-
-### 🔗 Connect me:
-
-<p align="left">
-<a href="mailto:imranalfarabidevworks@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/imranalfarabidevworks"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=61579932906800"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
----
-
-## 📊 Github Status
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranalfarabidevworks&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=c9d1d9" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=nightowl&hide_border=true&background=0D1117" />
-</p>
-
----
-
-## 🧰 Languages & Tools I Have Placed My Hands On
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma&theme=dark&perline=8" />
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,git,github,vscode&theme=dark&perline=8" />
-</p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,vite,postman,npm,docker,linux,bash,vim&theme=dark&perline=8" />
-</p>
-
----
-
-## ⭐ Best Repositories
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**📦 LaunchForge-AI**
-A large-scale multi-module SaaS platform — website builder, CMS, e-commerce, CRM & marketing, built with Next.js and MongoDB.
-`Next.js` `TypeScript` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-**🛍️ ZeroPin-Storefront**
-Full e-commerce storefront for a Dhaka-based t-shirt brand with bKash/Nagad/COD support and Bangladesh-wide delivery logic.
-`Next.js` `MongoDB` `Tailwind`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**💊 MediScript**
-AI-powered prescription management system with separate Patient, Doctor & Admin portals.
-`Next.js` `HeroUI` `Gemini API`
-
-</td>
-<td width="50%" valign="top">
-
-**📅 DocAppoint**
-Doctor appointment booking platform with OAuth and session-based authentication.
-`Next.js` `Express` `Better Auth`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack:
-
-<p align="center">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Better%20Auth-FF4500?style=for-the-badge&logo=auth0&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center">💬 Support Me 🔥</h2>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/imranalfarabi">
-<img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=90&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%99%EF%B8%8F;Next.js+Enthusiast+%F0%9F%9A%80;Clean+Code+%7C+Great+UI%2FUX+%E2%9C%A8" alt="Typing SVG" />
 </a>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Location-Bangladesh-2c5364?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/🌱_Learning-Next.js_%7C_System_Design-00c6ff?style=for-the-badge&labelColor=0f2027" />
+<img src="https://komarev.com/ghpvc/?username=imranalfarabidevworks&style=for-the-badge&color=00c6ff&labelColor=0f2027" alt="profile views"/>
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: "Imran Al Farabi"
+role: "Full Stack Developer (MERN | Next.js)"
+location: "Bangladesh 🇧🇩"
+currently_learning: ["Advanced Next.js", "Better Auth", "System Design"]
+focus: ["Clean Code", "Performance", "Great UI/UX"]
+passion: "Building modern, scalable & user-focused web applications 🚀"
+```
+
+- 🌱 Learning **Advanced Next.js**, **Better Auth**, **System Design**
+- 💼 Passionate about building full-stack applications
+- 🎯 Obsessed with clean code, performance & great UI/UX
+- 📍 Based in **Bangladesh**
+- ⚡ Fun fact: I debug faster with coffee ☕
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+
+<br/><br/>
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase&theme=dark" />
+
+<br/><br/>
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+<br/><br/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=imranalfarabidevworks&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&count_private=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=imranalfarabidevworks&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=00c6ff&currStreakLabel=00c6ff"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranalfarabidevworks&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&langs_count=8"/>
+
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imranalfarabidevworks&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00c6ff&line=00c6ff&point=ffffff" width="100%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/imranalfarabidevworks/imranalfarabidevworks/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the GitHub Action to auto-generate this snake.</sub>
+
+</div>
+
+<br/>
+
+## ⏱️ WakaTime Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Add your WakaTime badge below by connecting https://wakatime.com/ 
+and using README-stats sync, e.g:
+```
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=imranalfarabidevworks&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&layout=compact"/>
+<!--END_SECTION:waka-->
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=imranalfarabidevworks&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1"/>
+
+</div>
+
+<br/>
+
+## 💼 Featured Projects
+
+<div align="center">
+
+<a href="https://alfarabi-portfolio-vert-phi.vercel.app/">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+</a>
+<a href="https://github.com/imranalfarabidevworks">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=tourism-website&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+</a>
+<br/>
+<a href="https://github.com/imranalfarabidevworks">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=imranalfarabidevworks&repo=ecommerce-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff"/>
+</a>
+
+</div>
+
+> 💡 **Note:** Update the `repo=` values above with your exact repository names so the pinned cards render correctly.
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🌐 **Portfolio Website** | Personal portfolio showcasing my work & skills | Next.js, Tailwind CSS |
+| ✈️ **Tourism Website** | Full-stack travel & tourism booking platform | MERN Stack |
+| 🛒 **E-commerce Platform** | Scalable online store with cart & payments | MERN, Next.js |
+
+<br/>
+
+## 🎯 Current Goals
+
+- 🚀 Master **Next.js** (App Router, Server Actions, Caching)
+- 🐳 Learn **Docker & Kubernetes**
+- 💡 Build **SaaS products**
+- 🌍 Contribute to **Open Source**
+
+<br/>
+
+## 📚 Learning Roadmap
+
+```mermaid
+graph LR
+    A[MERN Stack ✅] --> B[Next.js Advanced 🔄]
+    B --> C[System Design 🔄]
+    C --> D[Docker & Kubernetes 📌]
+    D --> E[SaaS Product Building 📌]
+    E --> F[Open Source Contribution 📌]
+
+    style A fill:#00c6ff,stroke:#0f2027,color:#000
+    style B fill:#2c5364,stroke:#0f2027,color:#fff
+    style C fill:#2c5364,stroke:#0f2027,color:#fff
+    style D fill:#0f2027,stroke:#00c6ff,color:#fff
+    style E fill:#0f2027,stroke:#00c6ff,color:#fff
+    style F fill:#0f2027,stroke:#00c6ff,color:#fff
+```
+
+<br/>
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:imranalfarabidevworks@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/imran-al-farabi-6868f">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://alfarabi-portfolio-vert-phi.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/imranalfarabidevworks">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile — don't forget to leave a star on repos you like!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
